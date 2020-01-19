@@ -21,8 +21,9 @@ There is a wide range of fields where Python could be applied. Apart from how we
 This is a bit more technical.
 Computers can run programs written in low-level languages, also called machine languages. These are difficult for a human to write in and understand. It is, therefore, more sensible to write programs in a high-level language. 
 
->**High-level language**: a programming language that enables a programmer to write programs that are independent of a particular type of computer. These languages are high-level because they are closer to human languages.
-**Low-level language**: a programming language that is close to writing actual machine code(binary, hexadecimal)
+>**High-level language**: a programming language that enables a programmer to write programs that are independent of a particular type of computer. These languages are high-level because they are closer to human languages.  
+>
+>**Low-level language**: a programming language that is close to writing actual machine code(binary, hexadecimal)
 
 **To summarize**:      
 What makes Python a powerful, often preferred over other programming languages, would be the following:
