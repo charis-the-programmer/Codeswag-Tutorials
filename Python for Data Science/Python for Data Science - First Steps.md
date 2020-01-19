@@ -47,7 +47,7 @@ These reasons will help us answer the following question.
 
 
 ### Getting Started - Jupyter Notebook
-There are a plethora of editors and IDEs you can use for your Data Science work, For the sake of these tutorials, well be making use of the Jupyter Notebook.  
+There are a plethora of editors and IDEs you can use for your Data Science work. For the sake of these tutorials, well be making use of the Jupyter Notebook.  
 
 Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. 
 
