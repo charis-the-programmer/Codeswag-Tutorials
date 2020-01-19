@@ -90,7 +90,7 @@ Navigate to the folder you created and then select new then Python3. A new windo
 
 ![new program](https://codeswag.co.uk/wp-content/uploads/2020/01/new-note.png)
 
-**In the next window, type `print(“HelloWorld”)` then click run**  
+**In the next window, type `print(“Hello, World!”)` then click run**  
 ![the new notebook](https://codeswag.co.uk/wp-content/uploads/2020/01/first-book.png)  
 
 **Your window should look like this afterward:**
