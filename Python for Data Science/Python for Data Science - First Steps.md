@@ -4,12 +4,14 @@ In the previous article, I mentioned that to do well in Data Science you require
 
 In this article I’ll go over the programming language we’ll be using; Python and setting up the environment for this series on Data Science.
 
+
 ### Python - An Overview 
 
 #### What is Python?
 Python is an open-source, general-purpose high-level programming language.
 
 I’ll break this down.
+
 
 ##### Open-source
 This means it is free. Python has a large and active community. Its source code is easily accessible, and because of this community and all its contributors, the language is constantly growing and upgrading. This is the main reason Python is cross-platform – it is available on just about all operating systems: Windows, Mac, and Linux.
@@ -23,7 +25,7 @@ Computers can run programs written in low-level languages, also called machine l
 
 >**High-level language**: a programming language that enables a programmer to write programs that are independent of a particular type of computer. These languages are high-level because they are closer to human languages.  
 >
->**Low-level language**: a programming language that is close to writing actual machine code(binary, hexadecimal)
+>**Low-level language**: a programming language that is close to writing actual machine code.(binary, hexadecimal)
 
 **To summarize**:      
 What makes Python a powerful, often preferred over other programming languages, would be the following:
