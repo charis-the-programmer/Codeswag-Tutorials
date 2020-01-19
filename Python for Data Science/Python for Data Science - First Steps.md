@@ -6,7 +6,7 @@ In this article I’ll go over the programming language we’ll be using; Python
 
 ### Python - An Overview 
 
-### What is Python?
+#### What is Python?
 Python is an open-source, general-purpose high-level programming language.
 
 I’ll break this down.
