@@ -104,9 +104,11 @@ Congratulations! You have just run your first program with Jupyter Notebook.
 
 ##### Additional Information  
 
-Jupyter is made of cells and has two modes:
-**Edit Mode**: When you write your code
-**Command Mode**: When you run the code 
+Jupyter is made of cells and has two modes:  
+
+**Edit Mode**: When you write your code.  
+
+**Command Mode**: When you run the code. 
 
 Lastly, below the __Help__ menu is a list of very useful keyboard shortcuts that will greatly improve your workflow.
 
