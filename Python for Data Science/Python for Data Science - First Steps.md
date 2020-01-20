@@ -91,13 +91,13 @@ To run Jupyter simply open your terminal and type the following and press enter.
 As is customary we are going to write a **“Hello World!”** program. 
 Navigate to the folder you created and then select new then Python3. A new window will be opened thereafter. 
 
-![new program](https://codeswag.co.uk/wp-content/uploads/2020/01/new-note.png)
+![new program](https://codeswag.co.uk/wp-content/uploads/2020/01/new-jupyter2.png)
 
 **In the next window, type `print(“Hello, World!”)` then click run**  
-![the new notebook](https://codeswag.co.uk/wp-content/uploads/2020/01/first-book.png)  
+![the new notebook](https://codeswag.co.uk/wp-content/uploads/2020/01/blank-jupyter.png)  
 
 **Your window should look like this afterward:**
-![the output you should get](https://codeswag.co.uk/wp-content/uploads/2020/01/hello-jupyter.png)  
+![the output you should get](https://codeswag.co.uk/wp-content/uploads/2020/01/finaloutput.png)  
 
 Congratulations! You have just run your first program with Jupyter Notebook.  
 
