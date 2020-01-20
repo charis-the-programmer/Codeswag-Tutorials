@@ -84,7 +84,7 @@ To run Jupyter simply open your terminal and type the following and press enter.
 
 `jupyter notebook`  
 
-![run jupyter](https://codeswag.co.uk/wp-content/uploads/2020/01/run-jupyter.png)
+![run jupyter](https://codeswag.co.uk/wp-content/uploads/2020/01/opnjupyter.png)
 
 
 ##### Your First Program
