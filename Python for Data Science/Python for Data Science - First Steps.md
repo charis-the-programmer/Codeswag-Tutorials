@@ -67,7 +67,7 @@ First, ensure you have the latest version of pip. Type the following and press e
 
 `pip install --upgrade pip` 
 
-![upgrading pip](https://codeswag.co.uk/wp-content/uploads/2020/01/up-to-date-pip.png)
+![upgrading pip](https://codeswag.co.uk/wp-content/uploads/2020/01/upgrade-pip.png)
 
 
 **Next, Type the following and press enter**
