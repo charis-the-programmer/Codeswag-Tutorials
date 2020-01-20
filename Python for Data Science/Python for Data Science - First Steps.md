@@ -17,7 +17,7 @@ I’ll break this down.
 This means it is free. Python has a large and active community. Its source code is easily accessible, and because of this community and all its contributors, the language is constantly growing and upgrading. This is the main reason Python is cross-platform – it is available on just about all operating systems: Windows, Mac, and Linux.
 
 #####  General-purpose 
-There is a wide range of fields where Python could be applied. Apart from how we’ll be using it, it can be used for web programming through the Django framework, GUIs with the Tkinter.
+There is a wide range of fields where Python could be applied. Apart from how we’ll be using it, it can be used for web programming through the Django framework, GUIs with the Tkinter tomention a few.
 
 ##### High-level language
 This is a bit more technical.
