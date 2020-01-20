@@ -68,7 +68,7 @@ First, ensure you have the latest version of pip. Type the following and press e
 `pip install --upgrade pip` 
 
 ![upgrading pip](https://codeswag.co.uk/wp-content/uploads/2020/01/up-to-date-pip.png)
-_my pip is already up to date_  
+
 
 **Next, Type the following and press enter**
 `pip install jupyter`  
