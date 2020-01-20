@@ -67,13 +67,13 @@ First, ensure you have the latest version of pip. Type the following and press e
 
 `pip install --upgrade pip` 
 
-![upgrading pip](https://codeswag.co.uk/wp-content/uploads/2020/01/upgrade-pip.png)
+![upgrading pip](https://codeswag.co.uk/wp-content/uploads/2020/01/uppip.png)
 
 
 **Next, Type the following and press enter**
 `pip install jupyter`  
 
-![installing jupyter](https://codeswag.co.uk/wp-content/uploads/2020/01/installjupyter.png)  
+![installing jupyter](https://codeswag.co.uk/wp-content/uploads/2020/01/putjupyteer.png)  
 
 And that’s it! you’re ready to use Jupyter.
 
