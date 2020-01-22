@@ -104,17 +104,43 @@ Congratulations! You have just run your first program with Jupyter Notebook.
 ### Example Programs with Jupyter Notebook
 
 #### Check If Leap Year 
-![leapyear 1]()
-#### Shipping Charge Calculator
+
+Explanation of the concept
+![leapyear 1](https://codeswag.co.uk/wp-content/uploads/2020/01/leap1.png)
+
+Writing the code
+![leapyear 2](https://codeswag.co.uk/wp-content/uploads/2020/01/leap2.png)
+
+Output
+![leapyear 3](https://codeswag.co.uk/wp-content/uploads/2020/01/leap3.png)
+
+
+#### Shipping Charge Calculator  
+
+Explaining theprogram
 ![shipping 1](https://codeswag.co.uk/wp-content/uploads/2020/01/ship1.png)
 
+Variable declaration
 ![shipping 2](https://codeswag.co.uk/wp-content/uploads/2020/01/ship2.png)
 
+Main Code
 ![shipping 3](https://codeswag.co.uk/wp-content/uploads/2020/01/ship3.png)
 
+Output
 ![shipping 4](https://codeswag.co.uk/wp-content/uploads/2020/01/ship4.png)
 
-#### Solve Quadratic Equation
+
+#### Solve Quadratic Equation  
+
+Explaining the eqaution and how to solve it
+![quadratic 1](https://codeswag.co.uk/wp-content/uploads/2020/01/quad1.png)
+
+Writing the code
+![quadratic 2](https://codeswag.co.uk/wp-content/uploads/2020/01/quad2.png)
+
+Output
+![quadratic 3](https://codeswag.co.uk/wp-content/uploads/2020/01/quad3.png)
+
 
 You can find the source code of these examples [here](https://github.com/Psypher1/Codeswag-Tutorials/tree/master/Code%20Files)
 
