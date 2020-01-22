@@ -101,6 +101,23 @@ Navigate to the folder you created and then select new then Python3. A new windo
 
 Congratulations! You have just run your first program with Jupyter Notebook.  
 
+### Example Programs with Jupyter Notebook
+
+#### Check If Leap Year 
+![leapyear 1]()
+#### Shipping Charge Calculator
+![shipping 1](https://codeswag.co.uk/wp-content/uploads/2020/01/ship1.png)
+
+![shipping 2](https://codeswag.co.uk/wp-content/uploads/2020/01/ship2.png)
+
+![shipping 3](https://codeswag.co.uk/wp-content/uploads/2020/01/ship3.png)
+
+![shipping 4](https://codeswag.co.uk/wp-content/uploads/2020/01/ship4.png)
+
+#### Solve Quadratic Equation
+
+You can find the source code of these examples [here](https://github.com/Psypher1/Codeswag-Tutorials/tree/master/Code%20Files)
+
 
 ##### Additional Information  
 
