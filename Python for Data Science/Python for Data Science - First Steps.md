@@ -104,44 +104,47 @@ Congratulations! You have just run your first program with Jupyter Notebook.
 ### Example Programs with Jupyter Notebook
 
 #### Check If Leap Year 
+Run jupyter and like before, make a new notebook.  
 
-Explanation of the concept
+First we'll explain what the progtram does and add soem information on the subject.
+
+1. Select the dropdown that says **code** and change it to **markdown**  
+
+![switch to markdown](https://codeswag.co.uk/wp-content/uploads/2020/01/newww.png)  
+
+Here is a resource on markdown foramtting: [Markdown](https://guides.github.com/features/mastering-markdown/) 
+
+2. Next, we write the explanation then press **Alt + Enter** to run and insert a cell below
+
 ![leapyear 1](https://codeswag.co.uk/wp-content/uploads/2020/01/leap1.png)
 
-Writing the code
+3. Writing the code
+     First we need to get user input, type this line of code and press **Alt + Enter**: 
+     ```py
+     year = int(input("Enter a year to check: "))
+    ```
+    In the next cell we add the rest of the code for the program. Type this and press **Shift + Enter**:
+    ```py
+    if (year % 4) == 0:
+        if (year % 100) == 0:
+            if (year % 400) == 0:
+               print("{0} is a leap year".format(year))
+           else:
+               print("{0} is not a leap year".format(year))
+       else:
+           print("{0} is a leap year".format(year))
+    else:
+       print("{0} is not a leap year".format(year))
+    
+    ```
+
+
 ![leapyear 2](https://codeswag.co.uk/wp-content/uploads/2020/01/leap2.png)
 
-Output
+4. Running the program
+   To run the program, select **Cell** in the menu bar then **Run All**
+
 ![leapyear 3](https://codeswag.co.uk/wp-content/uploads/2020/01/leap3.png)
-
-
-#### Shipping Charge Calculator  
-
-Explaining theprogram
-![shipping 1](https://codeswag.co.uk/wp-content/uploads/2020/01/ship1.png)
-
-Variable declaration
-![shipping 2](https://codeswag.co.uk/wp-content/uploads/2020/01/ship2.png)
-
-Main Code
-![shipping 3](https://codeswag.co.uk/wp-content/uploads/2020/01/ship3.png)
-
-Output
-![shipping 4](https://codeswag.co.uk/wp-content/uploads/2020/01/ship4.png)
-
-
-#### Solve Quadratic Equation  
-
-Explaining the eqaution and how to solve it
-![quadratic 1](https://codeswag.co.uk/wp-content/uploads/2020/01/quad1.png)
-
-Writing the code
-![quadratic 2](https://codeswag.co.uk/wp-content/uploads/2020/01/quad2.png)
-
-Output
-![quadratic 3](https://codeswag.co.uk/wp-content/uploads/2020/01/quad3.png)
-
-
 You can find the source code of these examples [here](https://github.com/Psypher1/Codeswag-Tutorials/tree/master/Code%20Files)
 
 
