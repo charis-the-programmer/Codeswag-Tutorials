@@ -189,7 +189,7 @@ Run jupyter and make a new notebook
    To run the program, do the excat same as the first example, select **Cell** in the menu bar then **Run All**
 
 #### Solve Quadratic Equation  
-Like in the previous example run Jupyter, make a new notebook an change the first cell to marrkdown
+Like in the previous example run Jupyter, make a new notebook an change the first cell to markdown
 
 1. Explaining the equation and how to solve it
    First we explain our code and the eqaution
@@ -200,7 +200,7 @@ Like in the previous example run Jupyter, make a new notebook an change the firs
 
     When you have entered the information for the first cell, press **Alt + Enter**
     
-    Change this nnext cell to markdown. Here we will output how theequation is solved. Type this and press **Alt + Enter**:
+    Change this nnext cell to markdown. Here we will output how the equation is solved. Type this and press **Alt + Enter**:
     `$$ x = \frac{-b + \sqrt(b^2-4ac)}{2a} $$`
     
     `$$ x = \frac{-b - \sqrt(b^2-4ac)}{2a} $$`
@@ -217,7 +217,7 @@ Here is a resource that explains how to write mathematical formulas in jupyter: 
    ```py
     import cmath
    ```
-   Then type this for the function:
+   Then type this for the function and press **Shift + Enter**:
    ```py
    def quad():
        a = int(input("Please enter the first coeffeicient: "))
