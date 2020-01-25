@@ -141,7 +141,8 @@ Here is a resource on markdown foramtting: [Markdown](https://guides.github.com/
 
 ![leapyear 2](https://codeswag.co.uk/wp-content/uploads/2020/01/leap2.png)
 
-4. Running the program
+4. Running the program.  
+
    To run the program, select **Cell** in the menu bar then **Run All**
 
 ![leapyear 3](https://codeswag.co.uk/wp-content/uploads/2020/01/leap3.png)
@@ -151,12 +152,14 @@ You can find the source code of these examples [here](https://github.com/Psypher
 #### Shipping Calculator
 Run jupyter and make a new notebook
 
-1. Explanation of the code
+1. Explanation of the code.  
+
    Change the first cell to markdown> Explain the code then press **Alt+Enter***
 
 ![explaining the program](https://codeswag.co.uk/wp-content/uploads/2020/01/ship1.png)
 
-2. Writing the code
+2. Writing the code.  
+
    We start by declaring our variables. Type this aand press **Alt + Enter**:
    ```py
    purchaseAmt = 0
@@ -185,13 +188,16 @@ Run jupyter and make a new notebook
    print("Your total, including shiping is: $%.2f" %totalWithShipping)
    ```
  ![code and output](https://codeswag.co.uk/wp-content/uploads/2020/01/ship3.png)
-3. Running the program
+
+3. Running the program. 
+
    To run the program, do the excat same as the first example, select **Cell** in the menu bar then **Run All**
 
 #### Solve Quadratic Equation  
 Like in the previous example run Jupyter, make a new notebook an change the first cell to markdown
 
-1. Explaining the equation and how to solve it
+1. Explaining the equation and how to solve it.  
+
    First we explain our code and the eqaution
    
    To write  formaula and eqautions you have to enclose them in dollar signs: `$[equation]$` and to have them inline you enclose in two of them `$$[equation]$$`
@@ -212,7 +218,8 @@ Like in the previous example run Jupyter, make a new notebook an change the firs
 
 Here is a resource that explains how to write mathematical formulas in jupyter: [Jupyter Mathematical Formula](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
 
-2. Writing the code
+2. Writing the code.  
+
    We are going to write a function for this program. We'll start by importing a module Type this:
    ```py
     import cmath
@@ -240,7 +247,8 @@ Here is a resource that explains how to write mathematical formulas in jupyter: 
    ```
 ![quadratic 2](https://codeswag.co.uk/wp-content/uploads/2020/01/quad2.png)
 
-3. Running the program
+3. Running the program.  
+
   To run the program do the same as in the first example,select **Cell** in the menu bar then **Run All**
 ![quadratic 3](https://codeswag.co.uk/wp-content/uploads/2020/01/quad3.png)
 
